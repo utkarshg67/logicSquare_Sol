@@ -1,0 +1,40 @@
+{
+    "error": false,
+    "cafes": [{
+        "name": "Bazaar Cafe",
+        "location_id": "kjk234g4gcvfx8usg1l33pi"
+    }, {
+        "name": "Ashley's Cafe",
+        "location_id": "asjdh8hftys0kght2yskyvy"
+    }, {
+        "name": "Avenue Cafe",
+        "location_id": "skjd86svvfdrsv55svbvf3f"
+    }, {
+        "name": "Hi-Lo Cafe",
+        "location_id": "mjdhgetr4pojfyts22fzfsh"
+    }, {
+        "name": "California Chicken Cafe",
+        "location_id": "12hydbdf76sljfts87sbfis"
+    }, {
+        "name": "Corner Bakery Cafe",
+        "location_id": "jahgde7wgdiau8ewsahgosd"
+    }, {
+        "name": "Philz Coffee",
+        "location_id": "urhw3837ehalod7w02b7835"
+    }, {
+        "name": "The Alma Gathering Cafe",
+        "location_id": "mjdhgetr4pojfyts22fzfsh"
+    }, {
+        "name": "Lakeland Memory Cafe",
+        "location_id": "jahgde7wgdiau8ewsahgosd"
+    }, {
+        "name": "Baron Memory Cafe",
+        "location_id": "kjk234g4gcvfx8usg1l33pi"
+    }, {
+        "name": "Lakeshores Memory Cafe",
+        "location_id": "mjdhgetr4pojfyts22fzfsh"
+    }, {
+        "name": "Monarch Memory Cafe",
+        "location_id": "jahgde7wgdiau8ewsahgosd"
+    }]
+}
